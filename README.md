@@ -4,8 +4,8 @@ Je m'appelle Gautier Lepage. Je suis passionné d'informatique depuis toujours. 
 **Gautier50/Gautier50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/Gautier50ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Gautier50)](https://github.com/Gautier50-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Gautier50-trophy)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
