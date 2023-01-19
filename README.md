@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Bonjour 👋
+Je m'appelle Gautier Lepage. Je suis passionné d'informatique depuis toujours. C'est la raison pour laquelle je me suis reconverti dans le développement web. Pour cela j'ai suivi une formation à distance en 2022 avec Openclassrooms.
 <!--
 **Gautier50/Gautier50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
