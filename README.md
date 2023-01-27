@@ -2,16 +2,10 @@
 Je m'appelle Gautier Lepage. Je suis passionné d'informatique depuis toujours. C'est la raison pour laquelle je me suis reconverti dans le développement web. Pour cela j'ai suivi une formation à distance en 2022 avec Openclassrooms.
 J'ai pu réaliser différents projets professionnels dans lesquels j'ai énormément appris.
 
-Technologies
-https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
-<!--
-**Gautier50/Gautier50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[![trophy](https://github-profile-trophy.vercel.app/Gautier50)](https://github.com/Gautier50-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Gautier50-trophy)
-Here are some ideas to get you started:
 
+<!--
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
