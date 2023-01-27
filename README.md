@@ -3,6 +3,7 @@ Je m'appelle Gautier Lepage. Je suis passionné d'informatique depuis toujours. 
 J'ai pu réaliser différents projets professionnels dans lesquels j'ai énormément appris.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Gautier50-trophy)
+![](https://komarev.com/ghpvc/?username=your-github-gautier50&color=brightgreen&style=plastic)
 
 <!--
 Here are some ideas to get you started:
